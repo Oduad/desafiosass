@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/*Importe para colores usados*/
+/*Importe para tipos de letras (h)*/
+h1 {
+  color: gray;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+
+h2 {
+  color: gray;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular";
+  font-weight: 400;
+}
+
+/*Importe para las imágenes:*/
+img .logo_header {
+  max-width: 100px;
+}
+img .d-block {
+  width: 500px;
+}
+img .logo_index_mvv {
+  max-width: 220px;
+}
+img .img_mvv {
+  max-width: 150px;
+}
+img .imagen_footer {
+  max-width: 100px;
+}
+
+/*Importe para el reseteo:*/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+/*Importe para el header*/
+nav .color_header {
+  color: aquamarine;
+}
+
+div {
+  background-color: #52B6F9;
+  border-radius: 5px;
+}
+div ul li .nav-item {
+  font-size: 20px;
+  color: purple;
+}
+
+/*Importe para el body*/
+p .caja1_index, p .caja1_index, p .caja1_index {
+  font-size: 15px;
+  color: grey;
+}
+
+/*Importe para el footer*/
+.letras_footer {
+  font-size: 16px;
+  color: brown;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+}
+
+footer div {
+  font-size: 15px;
+  color: coral;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+}
+
+/*# sourceMappingURL=destino.css.map */

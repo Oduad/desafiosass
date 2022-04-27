@@ -1,0 +1,19 @@
+nav {
+    .color_header {
+        color: aquamarine;
+    }
+}
+
+div {
+    background-color: #52B6F9;
+    border-radius: 5px;
+
+    ul {
+        li {
+            .nav-item {
+                font-size: 20px;
+                color: $color_letras_logo;
+            }
+        }
+    }
+}
